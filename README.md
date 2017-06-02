@@ -1,1 +1,0 @@
-# fardabara-node-shopping
